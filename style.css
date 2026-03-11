@@ -1,7 +1,10 @@
+p {
+    color: white;
+}
 body{
     font-family: Arial;
     margin: 40px;
-    background-color: #110f42;
+    background-color: #3c3e4d;
 }
 
 header{
