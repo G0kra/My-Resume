@@ -1,5 +1,5 @@
 const projetos = [
-    https://github.com/G0kra/Senha,
+    <a href="https://github.com/G0kra">Meu GitHub</a>,
     "App de Tarefas em JavaScript",
     "Calculadora Web"
 ];
