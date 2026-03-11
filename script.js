@@ -1,13 +1,9 @@
 const projetos = [
-    <h2>Links</h2>
-    <a href="https://github.com/seuusuario" target="_blank"> GitHub
-    </a>
-    <br>
-    <a href="https://linkedin.com/in/seuusuario" target="_blank"> LinkedIn
-    </a>
+    <a href="https://github.com/G0kra" target="_blank">GitHub</a>,
     "App de Tarefas em JavaScript",
     "Calculadora Web"
 ];
+
 const lista = document.getElementById("projetos");
 
 projetos.forEach(projeto => {
